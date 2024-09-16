@@ -47,7 +47,7 @@ This portfolio is a collection of my work and projects. It demonstrates my skill
 - **Frontend**: React, Vue.js
 - **Backend**: Node.js, Express
 - **Blockchain**: Solidity, Ethereum
-- **Tools**: Git, GitHub, Docker
+- **Tools**: Git, GitHub
 
 ## How to Run
 
